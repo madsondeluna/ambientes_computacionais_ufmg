@@ -16,4 +16,4 @@ Este repositório contém:
 ---
 
 **Universidade Federal de Minas Gerais - UFMG**  
-*Departamento de Ciência da Computação - DCC/UFMG*
+*Departamento de Ciência da Computação - DCC*
