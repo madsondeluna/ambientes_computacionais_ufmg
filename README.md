@@ -1,6 +1,6 @@
-# Ambientes Computacionais - UFMG
+# DCC909 - Ambientes de Computação
 
-Repositório destinado ao armazenamento e compartilhamento dos materiais, scripts, configurações e documentações relacionados aos ambientes computacionais utilizados nas disciplinas e projetos do curso da Universidade Federal de Minas Gerais (UFMG).
+Repositório destinado ao armazenamento e compartilhamento dos materiais e scripts relacionados à discipina DCC909 da Universidade Federal de Minas Gerais (UFMG).
 
 ---
 
@@ -8,8 +8,9 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais, script
 
 Este repositório contém:
 
-- Scripts para configuração e instalação de ferramentas
-- Documentação técnica
+- Scripts 
+- Documentação técnica de aulas
+- Atividades
 - Exemplos e tutoriais
 
 ---
